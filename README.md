@@ -53,6 +53,4 @@ src="https://img.shields.io/github/followers/hsyndmrc?logo=github&style=for-the-
 
 <a href="http://www.github.com/hsyndmrc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hsyndmrc&stroke=a855f7&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=a855f7&currStreakLabel=14b8a6&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/hsyndmrc"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hsyndmrc&bg_color=1c1917&color=a855f7&line=facc15&point=a855f7&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/hsyndmrc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsyndmrc&langs_count=10&title_color=14b8a6&text_color=a855f7&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
