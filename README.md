@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Huseyin
 ===============================================================================================================================
 
-Frondend Developer
+Frondend Developer && Game Developer
 ------------------
 
-I am a frontend developer who loves react.
+I'm a Game Developer and Frontend Developer. 
 
 * 🌍  I'm based in Gaziantep
 * ✉️  You can contact me at [hsyn.dmrc.15041@gmail.com](mailto:hsyn.dmrc.15041@gmail.com)
 * 🧠  I'm learning React
+* 🧠  I'am learning Unity
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am HUSEYIN, Tell Everyone
 
